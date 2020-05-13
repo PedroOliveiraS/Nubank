@@ -9,7 +9,7 @@ export default function Tabs(){
             <ScrollView
                 horizontal={true}
                 showsHorizontalScrollIndicator={false}
-                contentContainerStyle={styles.tabContainer}
+                contentContainerStyle={styles.tabsContainer}
             >
                 <TabItem> 
                     <Icon name='person-add' size={24} color='#FFF'/>
